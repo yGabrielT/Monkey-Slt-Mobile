@@ -1,0 +1,33 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">OuterWildsApp</string>
+    <string name="app_1p_desc">Você é o mais novo recruta do Outer Wilds Ventures, um programa espacial recém-lançado que busca por respostas num sistema solar estranho em constante evolução.</string>
+    <string name="app_1p_titulo">Boas-vindas ao Programa Espacial!</string>
+    <string name="app_1p_botao1">Nada!</string>
+    <string name="app_1p_botao2">Nada!</string>
+    <string name="app_1p_botao3">Nada!</string>
+    <string name="app_1p_botao4">Nada!</string>
+    <string name="app_2p_titulo">Planetas</string>
+    <string name="app_2p_abrolho">Abrolho Sombrio</string>
+    <string name="app_2p_profundezas">Profundezas do Gigante</string>
+    <string name="app_2p_vale">Vale Incerto</string>
+    <string name="app_2p_recanto">Recanto Lenhoso</string>
+    <string name="app_2p_voltar">Voltar</string>
+    <string name="planeta_desc1_abrolho">   Abrolho Sombrio é uma grande e confusa rede de videiras retorcidas e passagens de teletransporte, os restos implodidos de um quinto planeta que há muito tempo foi infectado e invadido pelo crescimento de plantas que dobram o espaço. É o único planeta a apresentar vida selvagem hostil na forma de tamboril.</string>
+    <string name="planeta_desc2_abrolho">   O tamboril é muito maior que o navio do jogador e representa um sério risco para a exploração do Dark Bramble. Sua atração bioluminescente se assemelha ao brilho dos portais dentro do Dark Bramble e pode ser facilmente confundido com um. Quando alertados, eles podem se mover mais rápido que a nave do jogador e são capazes de engoli-la, levando instantaneamente à morte certa. </string>
+    <string name="planeta_desc1_profundezas">   As Profundezas do Gigante é um planeta oceânico feito de camadas fluidas que ficam cada vez mais densas de acordo com o mais perto se chega do núcleo, com cinco pequenas ilhas na superfície. Preenchidos com clima turbulento e uma atmosfera densa, ciclones maciços frequentemente se formam e viajam ao longo da superfície da água. O planeta tem um núcleo de coral rodeado por um fluido muito denso.</string>
+    <string name="planeta_desc2_profundezas">   O próprio planeta tem uma superfície oceânica com gravidade de 2,0x, cinco ilhas únicas e no máximo 11 ciclones circulando nas águas globais. A maioria dos ciclones lança qualquer coisa em seu caminho para o espaço, incluindo ilhas inteiras.</string>
+    <string name="planeta_desc1_recanto">   Recanto Lenhoso é o planeta natal dos Lenhosos e onde o jogador começa sua jornada. Tem uma composição principalmente rochosa acentuada por florestas, cordilheiras e cachoeiras. O terreno tem pouca variação fora das planícies gramadas, montanhas e grandes crateras, uma das quais forma a área da vila.</string>
+    <string name="planeta_desc2_recanto">   Grandes montanhas espalhadas ao redor do Recanto Lenhoso periodicamente lançam colunas de água de seus picos de gêiseres, capazes de lançar objetos através da atmosfera.</string>
+    <string name="planeta_desc1_vale">  Vale Incerto é o terceiro de seis planetas no sistema solar de Outer Wilds. Fazendo jus ao seu nome, o planeta consiste em uma crosta rochosa quebradiça, envolvendo um interior oco com um grande buraco negro servindo como núcleo do planeta. Bombardeamentos regulares da lua do planeta fazem com que fragmentos da frágil crosta se quebrem ao longo do ciclo, caindo no núcleo do buraco negro.</string>
+    <string name="planeta_desc2_vale">  É um planeta altamente instável que se formou naturalmente em torno do buraco negro em seu centro. Sua superfície rochosa e seca é fraturada e propensa ao colapso e, a cada ciclo de 22 minutos do jogo, o jogador pode observar como a maior parte da crosta do planeta se rompe e cai no buraco negro.</string>
+    <string name="char1_title">Chert</string>
+    <string name="char1_desc_1">    Chert é um astronauta Lenhoso localizado em seu acampamento no pólo norte dos Gemêos Cálidos. Ele têm a tarefa de observar a galáxia e atualizar os mapas estelares. Seu acampamento está cheio de equipamentos usados para astronomia. Ele toca bateria.</string>
+    <string name="char2_title">  Gabro</string>
+    <string name="char2_desc_1">    Gabro é um astronauta Lenhoso localizado em seu acampamento em uma ilha nas Profundezas do Gigante. Ele é amigável com o protagonista e exibe uma atitude muito casual e descontraída, embora com base em seus conhecimentos sobre mecânica quântica e suas reflexões sobre o loop temporal, ele pareçe ser um astronauta competente e inteligente. De acordo com Spinel, “Gabbro pode ser um pouco fantasioso, claro, mas ele não é mentiroso. Quero dizer, provavelmente, de qualquer maneira...“. Ele toca flauta.</string>
+    <string name="char3_title"> FeldsPato</string>
+    <string name="char3_desc_1">    Feldspato é um astronauta Lenhoso localizado no Abrolho Sombrio. Ele é um dos membros fundadores da Outer Wilds Ventures e é reverenciados como um dos melhores pilotos dos Viajantes Lenhosos. Ele toca gaita.
+    Hornfels descreve o Feldspato como "absolutamente destemido" e afirma que "nada o assusta", acrescentando: "É uma maravilha que o Feldspato vive para ver o espaço, francamente."</string>
+    <string name="char4_title"> Riebeck</string>
+    <string name="char4_desc_1">    Riebeck é um arqueólogo Lenhoso localizado na encruzilhada do Vale Incerto. Ele toca banjo.
+    Riebeck é um Lenhoso geralmente educado, mas tímido, que parece estar ansioso com a maioria das coisas, mas especialmente com tudo que envolve espaço e viagens espaciais.</string>
+</resources>
