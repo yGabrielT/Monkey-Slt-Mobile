@@ -5,4 +5,5 @@
     <color name="transparente2">#00000000</color>
     <color name="white">#FFFFFFFF</color>
     <color name ="yellow">#F1A24D</color>
+    <color name ="title">#D0D61D</color>
 </resources>

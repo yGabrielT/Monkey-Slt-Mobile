@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@drawable/img"
+    android:background="@drawable/imgbg1"
     tools:context=".MainActivity">
 
     <TextView
@@ -35,14 +35,14 @@
         android:layout_marginEnd="20dp"
         android:layout_marginBottom="180dp"
         android:text="@string/app_1p_titulo"
-        android:textColor="@color/yellow"
-        android:textSize="20sp"
+        android:textColor="@color/title"
+        android:textSize="40sp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintHorizontal_bias="0.32"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.401" />
+        app:layout_constraintVertical_bias="0.285" />
 
     <ImageButton
         android:id="@+id/imageButtonPlay"

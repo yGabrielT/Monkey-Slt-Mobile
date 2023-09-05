@@ -1,7 +1,7 @@
 <resources xmlns:tools="http://schemas.android.com/tools">
-    <string name="app_name">OuterWildsApp</string>
+    <string name="app_name">Monkey Slt Guia</string>
     <string name="app_1p_desc">Você é o mais novo recruta do Outer Wilds Ventures, um programa espacial recém-lançado que busca por respostas num sistema solar estranho em constante evolução.</string>
-    <string name="app_1p_titulo">Boas-vindas ao Programa Espacial!</string>
+    <string name="app_1p_titulo">Monkey Slt Guia</string>
     <string name="app_1p_botao1">Nada!</string>
     <string name="app_1p_botao2">Nada!</string>
     <string name="app_1p_botao3">Nada!</string>
