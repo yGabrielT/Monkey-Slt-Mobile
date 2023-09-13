@@ -28,7 +28,7 @@ public class MainActivity extends AppCompatActivity {
     public void MusicaPlay (View view){
         /** Inicia musica e troca para imagem de pausa**/
         if(mediaPlayer == null ){
-            mediaPlayer =  MediaPlayer.create(this,(R.raw.music_outer));
+            mediaPlayer =  MediaPlayer.create(this,(R.raw.musicmonkey));
 
         }
 
