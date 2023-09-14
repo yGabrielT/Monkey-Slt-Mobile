@@ -6,4 +6,6 @@
     <color name="white">#FFFFFFFF</color>
     <color name ="yellow">#F1A24D</color>
     <color name ="title">#D0D61D</color>
+    <color name = "black2">#272829</color>
+    <color name="red">#C51605</color>
 </resources>

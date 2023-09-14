@@ -11,7 +11,7 @@ public class Planeta_abrolho extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_planeta_abrolho);
+        setContentView(R.layout.activity_historia);
     }
     public void IrVoltarPlanetas (View view){
         Intent intent = new Intent(this, TelaPlanetas.class);

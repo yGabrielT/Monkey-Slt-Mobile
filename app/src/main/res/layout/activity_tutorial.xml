@@ -4,8 +4,8 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".Planeta_recanto"
-    android:background="@drawable/img_background_outer">
+    tools:context=".Planeta_vale"
+    android:background="@color/black2">
 
     <ScrollView
         android:id="@+id/scrollView3"
@@ -29,7 +29,7 @@
                 android:layout_height="wrap_content"
                 android:layout_marginTop="40dp"
                 android:gravity="center_horizontal"
-                android:text="@string/app_2p_recanto"
+                android:text="@string/app_2p_vale"
                 android:textColor="@color/yellow"
                 android:textSize="30sp" />
 
@@ -39,7 +39,7 @@
                 android:layout_height="230dp"
                 android:layout_gravity="center_horizontal"
                 android:contentDescription="@null"
-                android:src="@drawable/img_planeta_recanto1" />
+                android:src="@drawable/imagecomojogar" />
 
             <TextView
                 android:id="@+id/textView6"
@@ -47,17 +47,17 @@
                 android:layout_height="wrap_content"
                 android:layout_marginHorizontal="10dp"
                 android:justificationMode="inter_word"
-                android:text="@string/planeta_desc1_recanto"
+                android:text="@string/planeta_desc1_vale"
                 android:textColor="@color/white"
                 android:textSize="18dp" />
 
             <ImageView
                 android:id="@+id/imageView4"
-                android:layout_width="340dp"
+                android:layout_width="350dp"
                 android:layout_height="230sp"
                 android:layout_gravity="center_horizontal"
                 android:layout_marginTop="10dp"
-                android:src="@drawable/img_planeta_recanto2" />
+                android:src="@drawable/imgcontrole" />
 
             <TextView
                 android:id="@+id/textView7"
@@ -67,7 +67,7 @@
                 android:layout_marginTop="20dp"
                 android:layout_marginBottom="70dp"
                 android:justificationMode="inter_word"
-                android:text="@string/planeta_desc2_recanto"
+                android:text="@string/planeta_desc2_vale"
                 android:textColor="@color/white"
                 android:textSize="18dp" />
 
@@ -75,14 +75,14 @@
     </ScrollView>
 
     <Button
-        android:id="@+id/button4"
+        android:id="@+id/button5"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginTop="680dp"
         android:background="@color/transparente2"
         android:onClick="IrVoltarPlanetas"
         android:text="@string/app_2p_voltar"
-        android:textColor="@color/white"
+        android:textColor="@color/red"
         android:textSize="20dp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"

@@ -109,7 +109,7 @@
             android:contentDescription="@string/app_1p_botao4"
             android:onClick="IrPlanetas"
             android:scaleType="fitCenter"
-            android:src="@drawable/img_1"
+            android:src="@drawable/img_interro"
             tools:ignore="DuplicateSpeakableTextCheck" />
 
     </LinearLayout>

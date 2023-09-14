@@ -11,7 +11,7 @@ public class Planeta_profundezas extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_planeta_profundezas);
+        setContentView(R.layout.activity_progresso);
     }
 
     public void IrVoltarPlanetas (View view){

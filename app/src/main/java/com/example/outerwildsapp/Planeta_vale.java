@@ -11,7 +11,7 @@ public class Planeta_vale extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_planeta_vale);
+        setContentView(R.layout.activity_tutorial);
     }
 
     public void IrVoltarPlanetas (View view){
