@@ -1,4 +1,4 @@
-package com.example.outerwildsapp;
+package com.example.monkeysltmobile;
 
 import androidx.appcompat.app.AppCompatActivity;
 

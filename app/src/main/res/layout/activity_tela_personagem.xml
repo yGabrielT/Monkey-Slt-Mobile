@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@drawable/printjogo"
+    android:background="@color/black2"
     tools:context=".TelaPersonagem">
 
     <LinearLayout
@@ -30,7 +30,7 @@
             android:contentDescription="@string/app_1p_botao1"
             android:scaleType="fitCenter"
             android:onClick="MostrarLay1"
-            android:src="@drawable/img_char_1" />
+            android:src="@drawable/imgmacacoaranharound" />
 
         <ImageButton
             android:id="@+id/imageButton9"
@@ -41,7 +41,7 @@
             android:background="@color/transparente2"
             android:contentDescription="@string/app_1p_botao1"
             android:scaleType="fitCenter"
-            android:src="@drawable/img_char_2" />
+            android:src="@drawable/imgchimpanzeround" />
 
         <ImageButton
             android:id="@+id/imageButton10"
@@ -52,7 +52,7 @@
             android:background="@color/transparente2"
             android:contentDescription="@string/app_1p_botao1"
             android:scaleType="fitCenter"
-            android:src="@drawable/img_char_3" />
+            android:src="@drawable/imgorangutangoround" />
 
         <ImageButton
             android:id="@+id/imageButton11"
@@ -63,7 +63,7 @@
             android:background="@color/transparente2"
             android:contentDescription="@string/app_1p_botao1"
             android:scaleType="fitCenter"
-            android:src="@drawable/img_char_4" />
+            android:src="@drawable/imggorilaround" />
     </LinearLayout>
 
     <LinearLayout

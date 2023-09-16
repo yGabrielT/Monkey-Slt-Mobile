@@ -1,11 +1,10 @@
-package com.example.outerwildsapp;
+package com.example.monkeysltmobile;
 
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.content.Intent;
 import android.os.Bundle;
 import android.view.View;
-import android.widget.ImageButton;
 
 public class TelaPlanetas extends AppCompatActivity {
 
@@ -33,11 +32,6 @@ public class TelaPlanetas extends AppCompatActivity {
 
     }
 
-    public void IrRecanto (View view){
-        Intent intent = new Intent(this, Planeta_recanto.class);
-        startActivity(intent);
-
-    }
 
     public void Voltar (View view){
         Intent intent = new Intent(this, MainActivity.class);

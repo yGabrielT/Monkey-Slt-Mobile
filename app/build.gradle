@@ -3,11 +3,11 @@ plugins {
 }
 
 android {
-    namespace 'com.example.outerwildsapp'
+    namespace 'com.example.monkeysltmobile'
     compileSdk 33
 
     defaultConfig {
-        applicationId "com.example.outerwildsapp"
+        applicationId "com.example.monkeysltmobile"
         minSdk 24
         targetSdk 33
         versionCode 1

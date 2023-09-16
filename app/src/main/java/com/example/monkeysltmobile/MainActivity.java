@@ -1,4 +1,4 @@
-package com.example.outerwildsapp;
+package com.example.monkeysltmobile;
 
 import androidx.appcompat.app.AppCompatActivity;
 
@@ -71,20 +71,16 @@ public class MainActivity extends AppCompatActivity {
         startActivity(intent2);
 
     }
-    public void IrSteam (View view){
-        Uri link = Uri.parse("https://store.steampowered.com/app/753640/Outer_Wilds/");
-        Intent intent3 = new Intent(Intent.ACTION_VIEW,link);
-        startActivity(intent3);
-    }
+
 
     public void IrMapa (View view){
-        Uri linkmapa = Uri.parse("https://goo.gl/maps/zsVCiyjH3ALTqd7D7");
+        Uri linkmapa = Uri.parse("https://maps.app.goo.gl/zrn8BsXfUbCPwz926");
         Intent it = new Intent(Intent.ACTION_VIEW,linkmapa);
         startActivity(it);
     }
 
     public void IrEmail (View view){
-        String uriText = "mailto:fanmail@mobiusdigitalgames.com" +"?subject=" + URLEncoder.encode("assunto do email") +"&body=" + URLEncoder.encode("texto do email");
+        String uriText = "mailto:contact@monkeysltcorp.com" +"?subject=" + URLEncoder.encode("assunto do email") +"&body=" + URLEncoder.encode("texto do email");
         Uri uri= Uri.parse(uriText);
         //inicia a Intent
         Intent it = new Intent(Intent.ACTION_SENDTO);

@@ -13,9 +13,6 @@
         android:theme="@style/Theme.OuterWildsApp"
         tools:targetApi="31">
         <activity
-            android:name=".Planeta_recanto"
-            android:exported="false" />
-        <activity
             android:name=".Planeta_vale"
             android:exported="false" />
         <activity
