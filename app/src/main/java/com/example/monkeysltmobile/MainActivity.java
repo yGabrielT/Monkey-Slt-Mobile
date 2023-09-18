@@ -93,6 +93,12 @@ public class MainActivity extends AppCompatActivity {
         startActivity(it);
     }
 
+    public void IrGit(View view) {
+        Uri linkmapa = Uri.parse("https://github.com/yGabrielT/Monkey-SLT");
+        Intent it = new Intent(Intent.ACTION_VIEW, linkmapa);
+        startActivity(it);
+    }
+
     public void IrEmail(View view) {
         String uriText = "mailto:contact@monkeysltcorp.com" + "?subject=" + URLEncoder.encode("assunto do email") + "&body=" + URLEncoder.encode("texto do email");
         Uri uri = Uri.parse(uriText);
