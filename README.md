@@ -1,28 +1,53 @@
 # Monkey-Slt-Mobile
-Trabalho de PDM 
+
+Trabalho de PDM
 
 Integrantes: Gabriel Trindade e João Pedro Caetano
 
-## Características do Jogo:
+## Características Do App:
 
-•	Gênero: Roguelike em 2D
+•	Tipo: Guia de jogo
 
-•	Estilo: Plataforma / Top Down
+•	Conteúdo: Traz todas as informações do jogo Monkey CLT
 
-## História do Jogo:
-### *1. Introdução:*
-  No jogo você assume o papel de Max, um macaco-aranha estagiário em uma opressiva corporação. Sua vida monótona o leva a tomar uma decisão drástica para mudar seu destino. Esgotado das tarefas tediosas e do tratamento injusto, Max se rebela contra seus superiores e inicia um ato de destruição, desafiando a autoridade.
-   
-### *2. Upgrades e Equipamentos:*
-  Terá upgrades e equipamentos para fortalecer Max. A cada melhoria, ele se torna mais poderoso, enfrentando os funcionários hostis com mais eficiência. 
+## Funcionamento:
 
-### *3. Confronto com "Bosses":*
-  Ao final de cada andar se encontrará um primata com um cargo acima do seu, o primeiro sendo um chimpanzé funcionário integral. Derrotá-los é essencial para a ascensão de Max de estagiário macaco-aranha para um chimpanzé CLT.
-  
-### *4. A Revelação:*
-Surpreendentemente, Max não foi demitido devido ao respeito que seu chefe tem por sua atitude. Essa revelação o deixa mais determinado a chegar até ele. 
-### *5. O Segundo "Boss":*
-No segundo andar, enfrente o poderoso orangotango Coordenador, testando habilidades de liderança e estratégia. Assim o se tornando o mesmo após isso.
-### *6. Ultimo "Boss":*
-No ápice da corporação, enfrente o temível Gorila CEO, representante da ganância corporativa. Demonstre todas as habilidades e determinação de Max neste confronto épico.
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
 
+
+Ao abrir, o APP solicitará permiçao da localização do dispositivo e o encaminhará para tela inicial.
+
+A tela inicial contém alguns botões de encaminhamento para as outras Activity
+
+### Personagens:
+
+o primeiro botão irá encaminhar para a tela dos personagens onde vc vai encontrar ícones dos personagens, que são ImageButtons que trazem todas as informações por uma TextView referentes a eles. E logo abaixo terá o botão de voltar para a tela inicial 
+
+
+### Guias:
+
+o segundo botão irá encaminhar para uma tela contendo mais três botões que lavam pra determinados tópicos do jogo, sendo eles. E logo abaixo o botão de voltar
+
+#### História 
+
+Aqui mostrará a história do jogo por uma TextView. E abaixo um botão de voltar
+
+#### Progresso
+
+aqui será mostrado a sequência de progresso do jogo em relação aos bosses por uma TextView. E abaixo um botão de voltar 
+
+#### Tutorial
+
+e na últimas tela do guia será mostrado os controles e mecânicas do jogo por TextView e imagens. E abaixo um botão de voltar
+
+### E-mail
+
+encaminha para o e-mails contact@monkeysltcorp.com
+
+### localização 
+
+encaminha para a localização da empresa no Maps
+
+### Git do jogo
+
+encaminha para página do GitHub onde se encontra o projeto Monkey CLT.
