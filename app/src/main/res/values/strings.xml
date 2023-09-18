@@ -21,14 +21,26 @@
     <string name="planeta_desc2_recanto">   Grandes montanhas espalhadas ao redor do Recanto Lenhoso periodicamente lançam colunas de água de seus picos de gêiseres, capazes de lançar objetos através da atmosfera.</string>
     <string name="planeta_desc1_vale"> Use as setas do teclado ou o WASD para andar, mova o mouse para mover a camêra e mirar e use botão esquerdo para atirar. Você deve eliminar todos os personagens do andar para avançar.</string>
     <string name="planeta_desc2_vale"> Use moedas para obter upgrades e equipamentos para fortalecer Max. A cada melhoria, ele se torna mais poderoso, enfrentando os funcionários hostis com mais eficiência.</string>
-    <string name="char1_title">Chert</string>
-    <string name="char1_desc_1">    Chert é um astronauta Lenhoso localizado em seu acampamento no pólo norte dos Gemêos Cálidos. Ele têm a tarefa de observar a galáxia e atualizar os mapas estelares. Seu acampamento está cheio de equipamentos usados para astronomia. Ele toca bateria.</string>
-    <string name="char2_title">  Gabro</string>
-    <string name="char2_desc_1">    Gabro é um astronauta Lenhoso localizado em seu acampamento em uma ilha nas Profundezas do Gigante. Ele é amigável com o protagonista e exibe uma atitude muito casual e descontraída, embora com base em seus conhecimentos sobre mecânica quântica e suas reflexões sobre o loop temporal, ele pareçe ser um astronauta competente e inteligente. De acordo com Spinel, “Gabbro pode ser um pouco fantasioso, claro, mas ele não é mentiroso. Quero dizer, provavelmente, de qualquer maneira...“. Ele toca flauta.</string>
-    <string name="char3_title"> FeldsPato</string>
-    <string name="char3_desc_1">    Feldspato é um astronauta Lenhoso localizado no Abrolho Sombrio. Ele é um dos membros fundadores da Outer Wilds Ventures e é reverenciados como um dos melhores pilotos dos Viajantes Lenhosos. Ele toca gaita.
-    Hornfels descreve o Feldspato como "absolutamente destemido" e afirma que "nada o assusta", acrescentando: "É uma maravilha que o Feldspato vive para ver o espaço, francamente."</string>
-    <string name="char4_title"> Riebeck</string>
-    <string name="char4_desc_1">    Riebeck é um arqueólogo Lenhoso localizado na encruzilhada do Vale Incerto. Ele toca banjo.
-    Riebeck é um Lenhoso geralmente educado, mas tímido, que parece estar ansioso com a maioria das coisas, mas especialmente com tudo que envolve espaço e viagens espaciais.</string>
+    <string name="char1_title">Max: Protaginusta, Macaco-Aranha.</string>
+    <string name="char1_desc_1">    Eles são conhecidos por suas habilidades acrobáticas excepcionais nas árvores e sua aparência elegante e esbelta. Os macacos-aranha são conhecidos por sua agilidade nas copas das árvores das florestas tropicais do sudeste asiático. Eles possuem membros longos e delgados, o que os torna excelentes saltadores e saltadores de galho em galho. Suas mãos e pés são adaptados para agarrar firmemente os galhos, e eles não possuem um polegar totalmente oponível como os seres humanos.</string>
+    <string name = "char1_desc_2"> Max é um Estagiário em uma corporação opressora que abusa de seus funcionários. A hierarquia dessa empresa não é baseada em esforços para prestar um bom serviço, mas sim no domínio do mais forte. Logo os melhores cargos estão sobe posse dos “melhores” primatas, sendo eles Chimpanzés , Orangotangos e Gorilas.</string>
+    <string name="char2_title">  Gerente Chimp: Antagonista chefe, Chimpanzé</string>
+    <string name="char2_desc_1">    Os chimpanzés são primatas altamente inteligentes e sociais, conhecidos por sua semelhança genética com os seres humanos
+A dieta dos chimpanzés é predominantemente composta por frutas, mas eles também consomem folhas, brotos, sementes e ocasionalmente caçam pequenos animais, como macacos e pássaros.
+Os chimpanzés são animais altamente sociais, vivendo em comunidades lideradas por um macho dominante. Eles têm relações sociais complexas, constroem laços familiares e demonstram empatia e cooperação entre membros do grupo.
+</string>
+    <string name = "char2_desc_2">Amargo e mal-humorado o gerente do setor administrativo não aguenta mais reclamações sobre como o trabalho do setor administrativo é o mais chato da empresa, afinal lidar com todas as burocracias de uma empresa que funciona a base de macacos não deve ser a coisa mais prazerosa do mundo. </string>
+    <string name="char4_title"> CEO Kong: Chefe final, Gorila</string>
+    <string name="char4_desc_1">    Os gorilas são os maiores primatas do mundo e são conhecidos por sua força, tamanho imponente e natureza majestosa
+Os gorilas são principalmente herbívoros, alimentando-se de folhas, caules, brotos, frutas e plantas. Eles são conhecidos por serem comedores seletivos e podem passar grande parte do dia se alimentando.
+Os gorilas vivem em grupos sociais chamados de "tropas" ou "grupos familiares". Cada grupo é liderado por um macho dominante chamado de "prateado", devido ao pelo prateado nas costas que os machos desenvolvem com a idade.
+Os gorilas usam uma variedade de vocalizações, gestos e expressões faciais para se comunicar uns com os outros. Eles podem bater no peito como um sinal de intimidação ou realizar vocalizações profundas para se comunicar com outros membros do grupo.
+</string>
+    <string name="char4_desc_2">    Grande e forte são a palavras que definem o Primata que está no topo da cadeia alimentar empresarial, e KONG está lá. O macaco que conquistou tudo na base da força bruta e sem dar satisfação para ninguém não toma desaforo, não se preocupa com mais nada além de lucros , e passa o dia todo comendo bananas Gokusen (Banana mais cara do mundo).</string>
+    <string name="char3_title"> Vice-presidente Tango: Antagonista chefe, Orangotango </string>
+    <string name="char3_desc_1">    Os orangotangos são grandes primatas encontrados nas florestas tropicais da Sumatra e Bornéu, que são partes da Indonésia e da Malásia. Eles são conhecidos por sua aparência distintiva e comportamento solitário
+Orangotangos são conhecidos por sua pelagem longa e ruiva, que é sua característica mais marcante. Os machos tendem a ser maiores que as fêmeas e têm bochechas largas. Seu corpo é projetado para a vida nas árvores, com braços longos que podem se estender até 2 metros, permitindo-lhes mover-se habilmente pelas copas das árvores.
+A maior parte da dieta dos orangotangos consiste em frutas, folhas, cascas e flores. Eles também podem se alimentar de insetos e pequenos vertebrados ocasionalmente.
+</string>
+    <string name="char3_desc_2">O vice-presidente da maior empresa de gerenciamento de Bananais da região não é tido como o macaco mais sociável, mas de fato é eficiente, outro dia ele demitiu sua secretaria por achar que era desnecessário, tipo “Elon Muncky”, até contrata-la de novo quando viu que ser vice-presidente  envolvia muita papelada.</string>
 </resources>

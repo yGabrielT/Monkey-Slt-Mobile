@@ -5,22 +5,22 @@ import androidx.appcompat.app.AppCompatActivity;
 import android.content.Intent;
 import android.os.Bundle;
 import android.view.View;
-import android.widget.LinearLayout;
+import android.widget.ScrollView;
 
 public class TelaPersonagem extends AppCompatActivity {
 
-    LinearLayout char1;
-    LinearLayout char2;
-    LinearLayout char3;
-    LinearLayout char4;
+    ScrollView char1;
+    ScrollView char2;
+    ScrollView char3;
+    ScrollView char4;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_tela_personagem);
-        char1 = findViewById(R.id.char1);
-        char2 = findViewById(R.id.char2);
-        char3 = findViewById(R.id.char3);
-        char4 = findViewById(R.id.char4);
+        char1 = findViewById(R.id.char1scroll);
+        char2 = findViewById(R.id.char2scroll);
+        char3 = findViewById(R.id.char3scroll);
+        char4 = findViewById(R.id.char4scroll);
     }
 
     public void IrVoltar (View view){
