@@ -15,7 +15,7 @@ Integrantes: Gabriel Trindade e João Pedro Caetano
 --*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
 
 
-Ao abrir, o APP solicitará permiçao da localização do dispositivo e o encaminhará para tela inicial.
+Ao abrir, o APP solicitará permissão da localização do dispositivo e o encaminhará para tela inicial.
 
 A tela inicial contém alguns botões de encaminhamento para as outras Activity
 
